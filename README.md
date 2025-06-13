@@ -19,8 +19,6 @@ This question sparks endless debates among fans, analysts, and players alike. Bu
 
 This project uses machine learning to predict the winner of a hypothetical 1v1 basketball matchup between NBA players. By analyzing key performance metrics from real-world 5v5 games, our model estimates head-to-head outcomes based on player strengths, weaknesses, and statistical tendencies.
 
-Built as a project for UC Davis’s ECS 171 Machine Learning course, this project explores the complexities of adapting 5v5 basketball data to simulate 1v1 scenarios — a task that requires thorough feature selection, data engineering, and model tuning.
-
 Whether you're a sports analyst, a data science enthusiast, or just a basketball fan with strong opinions, this project brings advanced analytics to an ongoing debate in a creative way.
 
 # Key Highlights:
